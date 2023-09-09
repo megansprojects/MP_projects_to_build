@@ -32,8 +32,8 @@ typedef struct
 lightEffect_t lights[NUM_LIGHTS];
 
 
-#define FLAME_MIN 50
-#define FLAME_MAX 255
+#define FLAME_MIN 10
+#define FLAME_MAX 60
 #define FLAME_DELTA 16
 #define FLAME_WAIT 1
 
